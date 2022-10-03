@@ -1,1 +1,1 @@
-# uchicago-cs-git-tutorial
+# Mimi Yang
