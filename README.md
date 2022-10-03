@@ -1,1 +1,1 @@
-# Mimi Yang
+# Mimi Yang mimiy@uchicago.edu
