@@ -1,1 +1,1 @@
-# Mimi Yang mimiy@uchicago.edu
+# Mimi Yang mimiy@uchicago.edu UChicago CS Git Tutorial
